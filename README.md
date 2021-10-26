@@ -1,4 +1,4 @@
-Training on GitHub
+## Training on GitHub
 Learnt about:
 1. Version Control System.
 2. Types of VCS.
